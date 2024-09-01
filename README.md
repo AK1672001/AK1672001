@@ -5,18 +5,12 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 
 ## 🚀 About Me
 
-- 🌍 I'm based in Noida, India.
-- 💼 I work at Newgen as a Senior Software Design Engineer-1.
-- 🔭 I’m currently working on developing modern and responsive web applications using HTML, JavaScript, jQuery, CSS, Bootstrap, and JSP, while also integrating backend solutions with
-      Java.
-- 🌱 I’m currently learning Full Stack Development with a focus on MERN (MongoDB, Express.js, React, Node.js) technology.
-- 👯 I’m looking to collaborate on innovative web applications and projects that involve full stack development, especially those leveraging modern technologies like MERN (MongoDB,
-      Express.js, React, Node.js) and Java-based solutions.
-- 💬 Ask me about frontend development, including HTML, JavaScript, jQuery, CSS, Bootstrap, and JSP, as well as backend development with Java. I’m also happy to discuss best practices
-      in full stack development and project architecture.
-- 📫 How to reach me: You can email me at anilkushwaha1297@gmail.com or connect with me on https://www.linkedin.com/in/anil-kushwaha-843689215/ for
-      professional inquiries and collaborations.
-- 📝 [Checkout My Portfolio](https://anilkushwahaportfolio.netlify.app/)
+- 💼 I am a recent graduate with a Bachelor’s degree in Computer Science, specializing in web development.
+🔭 I have hands-on experience building modern and responsive web applications using HTML, CSS, and JavaScript, and have worked on personal projects with React and Node.js.
+🌱 I am currently learning Full Stack Development with a focus on MERN (MongoDB, Express.js, React, Node.js) technology to expand my skills and knowledge in both front-end and back-end development.
+👯 I am excited to collaborate on innovative web applications and projects, especially those involving modern technologies like MERN stack and JavaScript frameworks.
+💬 Feel free to ask me about web development fundamentals, including HTML, CSS, JavaScript, and project experiences. I’m also keen to discuss best practices and emerging trends in web development.
+📫 You can reach me via email at [amitkushwaha72024@gmail.com] or connect with me on [www.linkedin.com/in/amitkushwaha7224] for professional inquiries and opportunities.
 
 ## 🛠️ Technologies & Tools
 
@@ -50,7 +44,6 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 ## 🔗 Links
 
 - [LinkedIn](www.linkedin.com/in/amitkushwaha7224)
-- [Personal Website](https://anilkushwahaportfolio.netlify.app/)
 
 ## 🎯 Goals
 
