@@ -4,13 +4,14 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 
 
 ## 🚀 About Me
-
+- 🌍 I'm based in Noida, India.
 - 💼 I am a recent graduate with a Bachelor’s degree in Computer Science, specializing in web development.
-🔭 I have hands-on experience building modern and responsive web applications using HTML, CSS, and JavaScript, and have worked on personal projects with React and Node.js.
-🌱 I am currently learning Full Stack Development with a focus on MERN (MongoDB, Express.js, React, Node.js) technology to expand my skills and knowledge in both front-end and back-end development.
-👯 I am excited to collaborate on innovative web applications and projects, especially those involving modern technologies like MERN stack and JavaScript frameworks.
-💬 Feel free to ask me about web development fundamentals, including HTML, CSS, JavaScript, and project experiences. I’m also keen to discuss best practices and emerging trends in web development.
-📫 You can reach me via email at [amitkushwaha72024@gmail.com] or connect with me on [www.linkedin.com/in/amitkushwaha7224] for professional inquiries and opportunities.
+- 🔭 I have hands-on experience building modern and responsive web applications using HTML, CSS, and JavaScript, and have worked on personal projects with React and Node.js..
+- 🌱 I am currently learning Full Stack Development with a focus on MERN (MongoDB, Express.js, React, Node.js) technology to expand my skills and knowledge in both front-end and back-end development.
+- 👯 I am excited to collaborate on innovative web applications and projects, especially those involving modern technologies like MERN stack and JavaScript frameworks.
+- 💬Feel free to ask me about web development fundamentals, including HTML, CSS, JavaScript, and project experiences. I’m also keen to discuss best practices and emerging trends in web development..
+- 📫 You can reach me via email at [amitkushwaha72024@gmail.com] or connect with me on [www.linkedin.com/in/amitkushwaha7224] for professional inquiries and opportunities.
+.
 
 ## 🛠️ Technologies & Tools
 
@@ -53,7 +54,7 @@ Welcome to my GitHub profile! I'm a Software Design Engineer with a passion for 
 
 ## 🖼️ Showcase
 
-(https://anilkushwahaportfolio.netlify.app/)
+(www.linkedin.com/in/amitkushwaha7224)
 
 ## 💬 Let's Connect!
 
